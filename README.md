@@ -10,6 +10,6 @@
 
 ## Kontributor
 
-Wawan Irawan as editor
-Hasan Basri as editor
-Faiz Naim Widhaputra as editor
+1. Wawan Irawan as editor
+2. Hasan Basri as editor
+3. Faiz Naim Widhaputra as editor
