@@ -1,4 +1,5 @@
 # [PeduliKU](https://daarululuumlido.com)
+[PeduliKU](https://daarululuumlido.com) digunakan terbatas hanya untuk kalangan keluarga besar Pesantren Modern Daarul Uluum Lido saja.
 
 ## Browsers support
 
@@ -12,7 +13,3 @@
 Wawan Irawan as editor
 Hasan Basri as editor
 Faiz Naim Widhaputra as editor
-
-## Lisensi
-
-[PeduliKU](https://daarululuumlido.com) digunakan terbatas hanya untuk kalangan keluarga besar Pesantren Modern Daarul Uluum Lido saja.
