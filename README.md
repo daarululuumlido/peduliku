@@ -11,5 +11,4 @@
 ## Kontributor
 
 1. [Wawan Irawan](https://github.com/wawan78) as editor
-2. [Hasan Basri](https://github.com/hasanbasri1993) as editor
-3. [Faiz Naim Widhaputra](https://github.com/Neim5408) as editor
+2. [Faiz Naim Widhaputra](https://github.com/Neim5408) as editor
