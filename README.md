@@ -1,6 +1,6 @@
 # [ Aplikasi Peduli KU](https://daarululuumlido.com)
 
-**PeduliKU** adalah aplikasi yang dikembangkan pada 2024 untuk menyempurnakan aplikasi yang sebelumnya **https://app2.daarululuumlido.com** dan hanya digunakan untuk kegiatan tata usaha/bendahar pesantren saja.
+**PeduliKU** adalah aplikasi yang dikembangkan pada 2025 untuk menyempurnakan aplikasi yang sebelumnya **https://app2.daarululuumlido.com** dan hanya digunakan untuk kegiatan tata usaha/bendahar pesantren saja.
 
 ## License
 
